@@ -1,0 +1,44 @@
+[
+    {
+        "id": 0,
+        "nombre": "Rosas",
+        "imagen": "",
+        "descripccion": "Hermosos ramos realizados mayormente con rosas rojas o de distintos colores, todas nuestras rosas son de la mejor calidad, tipo exportación"
+    },
+    {
+        "id": 1,
+        "nombre": "Variados",
+        "imagen": "",
+        "descripccion": "Arreglo florales para toda ocasión como cumpleaños, felicitaciones, aniversarios, detalles, disculpas, presentes, todos los arreglos son hechos con flores de la mejor calidad, tipo exportación."
+    },
+    {
+        "id": 2,
+        "nombre": "Exóticos",
+        "imagen": "",
+        "descripccion": "Arreglos florales hechos para enviar sus condolencias a alguien especial que esté pasando por una perdida, también enviamos sufragios y hojas verdes, todos los arreglos son hechos con flores de la mejor calidad, tipo exportación.\nEstos arreglos fúnebres o de condolencias son hechos en trípodes de diferente altura y la cantidad de flores depende del valor del ramo."
+    },
+    {
+        "id": 3,
+        "nombre": "Fúnebres",
+        "imagen": "",
+        "descripccion": "Hermosos ramos realizados mayormente con rosas rojas o de distintos colores, todas nuestras rosas son de la mejor calidad, tipo exportación"
+    },
+    {
+        "id": 4,
+        "nombre": "Peluches",
+        "imagen": "",
+        "descripccion": "Arreglos florales para nacimientos, llegadas de niños y niñas, aniversario, amor, detalles con tu pareja, detalles para amig@s.\nTodos los arreglos que llevan muñeco cambian el valor según su tamaño, tenemos muñecos desde 20mil pesos en adelante."
+    },
+    {
+        "id": 5,
+        "nombre": "Detalles",
+        "imagen": "",
+        "descripccion": "Este tipo de arreglos son especiales para decir un día cualquiera a alguien cuan especial es para ti, también se usan para cumpleaños, aniversario, felicitación, graduación, amor y bien lo dice detalles.\nA todos los detalles le puedes poner lo que quieran, como globos metalizados, de látex, con helio, chocolates, muñecos y más por un valor adicional."
+    },
+    {
+        "id": 6,
+        "nombre": "Frutal",
+        "imagen": "",
+        "descripccion": "Arreglo perfecto para recuperación, bienvenida, aniversarios de empresas, de matrimonio, para buffet y más.\nTodas las bases cambian dependiendo del valor del ramo, también se le puede poner más fruta según su preferencia y anexar globos o lo que usted desee, todo cambio está sujeto a un valor adicional."
+    }
+]

@@ -1,1 +1,53 @@
-/* You can add global styles to this file, and also import other style files */
+@font-face {
+    font-family: "yellowtail-regular";
+    src: url("assets/font/Yellowtail-Regular.ttf"),
+    url("assets/font/Yellowtail-Regular.ttf") format('woff2'),
+    url("assets/font/Yellowtail-Regular.ttf") format('woff'),
+    url("assets/font/Yellowtail-Regular.ttf")  format('truetype');
+  }
+
+@font-face {
+    font-family: "roboto-regular";
+    src: url("assets/font/RobotoSlab-Regular.ttf"),
+    url("assets/font/RobotoSlab-Regular.ttf") format('woff2'),
+    url("assets/font/RobotoSlab-Regular.ttf") format('woff'),
+    url("assets/font/RobotoSlab-Regular.ttf")  format('truetype');
+}
+
+$color-primario: #f67d92;
+$color-resaltado: #df4a64;
+
+body {
+    height: 100%;
+    width: 100%;
+}
+
+h1 {
+    font-family: yellowtail-regular;
+}
+
+h2, h3, h4, h5, h6, p, li {
+    font-family: roboto-regular;
+}
+
+h1, h2, h3, h4, h5, h6, .color-p {
+    color: $color-primario;
+}
+
+.bg-s {
+    background-color: $color-resaltado;
+}
+
+.color-s {
+    color: $color-resaltado;
+}
+
+p {
+    text-align: justify;
+}
+
+.divider {
+    border-top: 3px solid !important;
+    margin-top: 0;
+}
+

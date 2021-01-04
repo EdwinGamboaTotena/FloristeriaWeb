@@ -31,9 +31,15 @@
               "src/assets"
             ],
             "styles": [
+              "src/assets/css/bootstrap.min.css",
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/jquery-3.5.1.slim.min.js",
+              "src/assets/js/popper.min.js",
+              "src/assets/js/bootstrap.min.js",
+              "src/assets/js/all-icons-fa.min.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -127,5 +133,8 @@
       }
     }
   },
-  "defaultProject": "FloristeriaWeb"
+  "defaultProject": "FloristeriaWeb",
+  "cli": {
+    "analytics": "4920b535-9f51-425d-b520-55486632458f"
+  }
 }

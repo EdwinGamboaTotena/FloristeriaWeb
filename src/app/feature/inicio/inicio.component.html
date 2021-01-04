@@ -1,0 +1,21 @@
+<div class="card">
+    <div class="card-body">
+        <h3 class="card-title text-center">Flores a todas partes de Colombia y el mundo</h3>
+        <p class="card-text">Pon una sonrisa en el ser a quien amas, el amor se expresa en detalles. Somos una
+            floristería con mas de 40 años de experiencia, trabajando con las mejores flores tipo exportación, para
+            brindar una excelente calidad a nuestros clientes.</p>
+
+        <h4 class="card-title">Nuestras categorías:</h4>
+
+        <div class="row ">
+            <div class="card col-md-4" *ngFor="let categoria of categoriasService.categorias">
+                <img class="card-img-top" [src]="categoria.imagen" [alt]="categoria.nombre">
+                <div class="card-body">
+                    <h5 class="card-title">{{categoria.nombre}}</h5>
+                    <p class="card-text">{{categoria.descripccion}}</p>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
